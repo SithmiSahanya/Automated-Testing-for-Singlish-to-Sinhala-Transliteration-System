@@ -1,17 +1,17 @@
-## IT23565630 - IT3040 Assigment 1
+## IT3040 Assigment 1
 
 ## Project Title
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ## Repository
-- https://github.com/SithmiSahanya/ITPM_Assignment1_IT23565630.git
+- https://github.com/SithmiSahanya/ITPM_Assignment1.git
 
 
 ## Project Structure
 IT3040_Assignment_1/
 
 - test_automation.py       -> Playwright automation script
-- IT23565630 - Test cases.xlsx -> Excel file with test cases & results
+- Test cases.xlsx          -> Excel file with test cases & results
 - requirements.txt         -> Python dependencies
 - README.md                -> Project documentation
 - venv/ (optional)         -> Virtual environment (not required)
@@ -32,7 +32,7 @@ IT3040_Assignment_1/
    playwright install
 
 4. Run the automation script
-   python test_automation.py --excel "IT23565630_Assignment 1 _Test cases" --url "[https://www.pixelssuite.com/chat-translator](https://www.pixelssuite.com/chat-translator)"
+   python test_automation.py --excel "Test cases" --url "[https://www.pixelssuite.com/chat-translator](https://www.pixelssuite.com/chat-translator)"
 
 ## Output
 - Results are automatically written to the Excel file
@@ -61,7 +61,7 @@ IT3040_Assignment_1/
     UI timing delays
 
 ## Student Information
-- Student ID: IT23565630
+- Student ID: *******
 - Module: IT3040
 - Assignment: Assignment 1 (Option 1)
 
